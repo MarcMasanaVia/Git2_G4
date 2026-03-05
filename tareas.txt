@@ -1,5 +1,6 @@
 === LISTA DE TAREAS DEL EQUIPO ===
 PENDIENTES:
+<<<<<<< HEAD
 
 === TAREAS PERSONA A ===
 - Configurar el entorno de desarrollo (Persona A)
@@ -13,3 +14,12 @@ PENDIENTES:
 
 
 COMPLETADAS:
+=======
+=== TAREAS PERSONA A ===
+- (Persona A: añadir aquí su tarea)
+=== TAREAS PERSONA B ===
+- Diseñar la interfaz de usuario (Persona B)
+=== TAREAS PERSONA C ===
+- (Persona C simulada por Persona B: añadir aquí su tarea)
+COMPLETADAS:
+>>>>>>> origin/feature/tarea-persona-b
