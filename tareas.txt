@@ -1,0 +1,9 @@
+=== LISTA DE TAREAS DEL EQUIPO ===
+PENDIENTES:
+=== TAREAS PERSONA A ===
+- (Persona A: añadir aquí su tarea)
+=== TAREAS PERSONA B ===
+- (Persona B: añadir aquí su tarea)
+=== TAREAS PERSONA C ===
+- Escribir la documentación (Persona C)
+COMPLETADAS:
