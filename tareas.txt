@@ -1,0 +1,15 @@
+=== LISTA DE TAREAS DEL EQUIPO ===
+PENDIENTES:
+
+=== TAREAS PERSONA A ===
+- Configurar el entorno de desarrollo (Persona A)
+
+=== TAREAS PERSONA B ===
+- (Persona B: añadir aquí su tarea)
+
+=== TAREAS PERSONA C ===
+- (Persona C simulada por Persona B: añadir aquí su tarea)
+
+
+
+COMPLETADAS:
